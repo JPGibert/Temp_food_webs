@@ -1,5 +1,5 @@
 # Temp_food_webs
-Code and data repository for Gibert 2019 
+Code and data repository for Gibert 2019, Nature Scientific Reports 
 
 Repository comprised of: 
   1) Food_webs.zip with all used food webs
